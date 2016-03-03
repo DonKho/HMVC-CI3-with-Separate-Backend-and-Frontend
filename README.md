@@ -33,6 +33,5 @@ assets/lib for libraries/plugins like bootstrap and jquery
 Nothing hacked in original code just configured using config.php and index.php
 Original folder structures by Bhuban <bhuban@gmail.com>, I just updated some of the directories
 and index.php files for my own structures and my project. If you found this useful, please share.
-For any suggestion and comments you can reach me at jmtolibas@hotmail.com
 
 Enjoy coding!
